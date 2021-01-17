@@ -1,7 +1,7 @@
 import React from 'react'
 
 import './Newsfeed.css'
-import Linegraph from './LineGraph'
+import LineGraph from './LineGraph'
 
 function Newsfeed() {
     return (
