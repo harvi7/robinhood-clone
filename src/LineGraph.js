@@ -7,19 +7,6 @@ function LineGraph() {
 
     const [graphData, setGraphData] = useState([])
 
-    const data = [
-        {
-            x: 10,
-            y: 20
-        }, {
-            x: 15,
-            y: 10
-        }, {
-            x: 12,
-            y: 4
-        }
-    ]
-
     const createMockData = () => {
         let data = [];
         let value = 50;
@@ -57,8 +44,8 @@ function LineGraph() {
                     ]
                 }}
                 options={{
-                    responsive:true,
                     maintainAspectRatio: false,
+                    
                     legend: {
                         display: false
                     },
