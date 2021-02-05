@@ -1,7 +1,7 @@
 ## Robinood-Clone
-Robinhood clone app using react and firebase
+Robinhood clone app using React, Redux and Firebase
 
-<!-- <strong>Application live link:</strong> https://covid-19-tracker-2-1b97e.web.app/ -->
+<strong>Application live link:</strong> https://robinhood-clone-34795.web.app
 
 **Download**
 
